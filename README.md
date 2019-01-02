@@ -41,14 +41,14 @@ Where MockMvc is deficient, improve it:
 ### Conformant XHTML
 Feature to check XHTML is well formed, valid and obeys standard 'good practice':
 
-* Only one <h1> within a <section> or entire document if not sectioned
+* Only one `<h1>` within a `<section>` or entire document if not sectioned
 * Unique IDs
 * IDs follow naming convention
 * Safe charset - no use of copy pasted Word apostrophes or pound signs
 
 ### Fields
-* <input> associated with <label>
-* <input> in error has associated error markup
+* `<input>` associated with <label>
+* `<input>` in error has associated error markup
 
 ### Accessibility
 Might be too much to handle initially:
